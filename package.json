@@ -10,7 +10,7 @@
     "start": "node server.js"
   },
   "dependencies": {
-    "@discordjs/opus": "^0.1.0",
+    "@discordjs/opus": "^0.8.0",
     "@sentry/node": "^4.0.0",
     "array-sort": "^1.0.0",
     "chalk": "^3.0.0",
